@@ -1,7 +1,7 @@
 # 2026-Android-BLE
 
-Kotlin과 Jetpack Compose로 만든 **Android BLE(Bluetooth Low Energy) 통신 앱**입니다.
-주변 BLE 기기를 검색해 연결하고, 자체 프로토콜 명령을 주고받아 **악력(kg) 측정값을 실시간으로 화면에 표시**합니다.
+Kotlin과 Jetpack Compose로 만든 Android BLE(Bluetooth Low Energy) 통신 앱입니다.
+주변 BLE 기기를 검색해 연결하고, 자체 프로토콜 명령을 주고받아 악력(kg) 측정값을 실시간으로 화면에 표시합니다.
 
 ---
 
