@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android BLE</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="shopping">Shopping</string>
+    <string name="profile">Profile</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="nav_scan_connect">Scan &amp; Connect</string>
+    <string name="nav_hgs_test">HGS Test</string>
+</resources>
